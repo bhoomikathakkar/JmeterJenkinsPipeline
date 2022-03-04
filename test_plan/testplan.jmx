@@ -15,7 +15,7 @@
       <TestFragmentController guiclass="TestFragmentControllerGui" testclass="TestFragmentController" testname="Test Fragment" enabled="true"/>
       <hashTree/>
       <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
-        <stringProp name="filename">C:/Users/BhoomikaT/jmeter workspace/test_data/file.csv</stringProp>
+        <stringProp name="filename">C:/Users/BhoomikaT/jmeterWS/test_data/file.csv</stringProp>
         <stringProp name="fileEncoding">UTF-8</stringProp>
         <stringProp name="variableNames">id,store</stringProp>
         <boolProp name="ignoreFirstLine">true</boolProp>
